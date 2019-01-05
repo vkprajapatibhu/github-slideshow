@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "elcome to our New slide!"
+title: "Welcome to our New slide!"
 ---
-Your text
+Vivek is doing great.
 Use the left arro to go back!
